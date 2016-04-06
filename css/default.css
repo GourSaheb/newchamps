@@ -1,0 +1,29 @@
+	.header{
+			margin-top: 1px; background-color: #ECECEC; color:darkblue;
+		}
+		.img-responsive{
+			height: 60px;
+		}
+		.left-menu{
+
+			float: left; width: 20%; height: 850px; text-align: center; background: #B0E0E6; border-right: 1px solid black;
+		}
+		.menu{
+			padding-top: 30px; 
+		}	
+		.menu a{
+
+			text-decoration: none;
+		}
+		.main-view{
+
+			 background: #99FFFF;  height: 850px;
+		}
+		ul.main-menu > li.menu-item-has-children > a:after {
+    		content: '';
+		}
+		.bodystyle{
+
+			color: #8e8e8e; font-size: 14px; line-height: 1.6em; font-family: 'Open Sans', sans-serif;
+		}
+		
